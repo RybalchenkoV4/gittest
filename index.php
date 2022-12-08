@@ -1,5 +1,5 @@
 <?php
-$var = "Hello World";
+$var = "Hello, World!";
 echo $var;
 
 ?>
